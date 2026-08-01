@@ -43,9 +43,3 @@
 <p data-importer="text" align="left"></p>
 
 ###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&section=footer&reversal=false&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=02&strokeWidth=7&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-###
