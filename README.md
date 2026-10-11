@@ -1,4 +1,40 @@
-Prazer <picture data-importer="pacman">
+# Olá, eu sou o Ananias 👋
+
+Estudante de **Análise e Desenvolvimento de Sistemas** (IFSP), com interesse em desenvolvimento, dados e inteligência artificial. Tenho também experiência prática em marketing, aquisição de clientes e identidade visual, o que me ajuda a pensar o produto além do código.
+
+## Estou estudando
+
+- Python (com foco em dados e IA)
+- Java
+- SQL
+- Excel e Power BI
+
+## Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## Projetos
+
+- **AutoMatch:** app que usa IA para recomendar o carro ideal ao perfil de cada pessoa e conecta usuários a concessionárias (projeto de Empreendedorismo). Fiquei com a área de marketing e aquisição de usuários e criei a identidade visual da marca.
+- **Portfólio pessoal:** site em HTML, CSS e JavaScript. [Ver projeto](link-do-portfolio)
+
+## Contato
+
+- LinkedIn: [seu-link](link)
+- E-mail: seu-email@exemplo.com
+
+Usei só o que você me contou sobre estudos, experiência e projetos. Troque os links e o e-mail no final. Se quiser, adapto o tom (mais formal ou mais descontraído), faço uma versão em inglês ou incluo outros projetos seus.
+
+
+
+
+Claude é uma IA e pode cometer erros. Confira sempre as respostas.
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananiasgabriel666-a11y/ananiasgabriel666-a11y/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananiasgabriel666-a11y/ananiasgabriel666-a11y/pacman-output/galaga-contribution-graph.svg?game=galaga">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ananiasgabriel666-a11y/ananiasgabriel666-a11y/pacman-output/galaga-contribution-graph.svg?game=galaga">
