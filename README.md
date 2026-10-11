@@ -1,4 +1,4 @@
-<picture data-importer="pacman">
+Prazer <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananiasgabriel666-a11y/ananiasgabriel666-a11y/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananiasgabriel666-a11y/ananiasgabriel666-a11y/pacman-output/galaga-contribution-graph.svg?game=galaga">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ananiasgabriel666-a11y/ananiasgabriel666-a11y/pacman-output/galaga-contribution-graph.svg?game=galaga">
