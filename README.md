@@ -4,7 +4,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (IFSP), com interesse em
 
 ## Estou estudando
 
-- Python (com foco em dados e IA)
+- Python
 - Java
 - SQL
 - Excel e Power BI
